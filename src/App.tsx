@@ -1,9 +1,7 @@
+import { VisualizerScene } from './components/VisualizerScene'
+
 function App() {
-  return (
-    <div>
-      <h1>Audio Visualizer</h1>
-    </div>
-  )
+  return <VisualizerScene />
 }
 
 export default App
